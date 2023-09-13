@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# cricketers Information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
 
-## Available Scripts
-
-In the project directory, you can run:
+Simple demo page using react. It shows players cards and
+Redirects to their wikipedia page when click on get more information
+Button
 
 ### `npm start`
 

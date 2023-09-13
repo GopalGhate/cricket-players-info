@@ -1,0 +1,29 @@
+/* CSS for cards componets */
+
+.Card {
+    padding: 5px;
+    margin: 5px;
+    flex-basis : auto;
+}
+
+.Card-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Card-width {
+    width : 18rem
+}
+
+.Card-body {
+    border-radius : 4px;
+    background-Color : black;
+
+}
+
+.Card-title {
+    color : lightgray;
+    margin : 10px;
+    font-size : 22px;
+}
