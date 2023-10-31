@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { Cards } from "./Cards";
-import { BrowserRouter, Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 export const RouterComponent = () => {
   return (
